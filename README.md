@@ -30,7 +30,7 @@ Okay! let's start by the most important thing :
   + [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
   + [How to Learn to Code](https://www.youtube.com/watch?v=mvK0UzFNw1Q)
   + [14-Year-Old Prodigy Programmer Dreams In Code](https://www.youtube.com/watch?v=DBXZWB_dNsw)
-
+  + [President Obama asks America to learn computer science](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 
 ## Disciplines
 + Web Developement
@@ -91,7 +91,7 @@ Okay! let's start by the most important thing :
 + [How I Learned to Program Computers - Feross](http://feross.org/how-i-learned-to-program-computers/)
 + [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 + [CS Internship Recruiting Guide](https://medium.com/@qrazhan/cs-internship-recruiting-guide-aebb68912808)
-
++ [9 Things I Learned as a Software Engineer*…that I wish I had known when I started grad school*](https://medium.com/@maebert/9-things-i-learned-as-a-software-engineer-c2c9f76c9266)
 
 ## School Program
 ![S1](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/program/s1.png "Semestre 1")

@@ -36,6 +36,12 @@ Okay! let's start by the most important thing :
 + Web Developement 
 + Database Administration
 + System Administration
++ Big Data
++ Computer Vision & Image Processing
++ Machine Learning
++ Artificial Intelligence
++ Distributed Systems
++ Computational Science
 
 
 ## Jobs
@@ -43,6 +49,9 @@ Okay! let's start by the most important thing :
 + Project Manager
 + Database Administrator
 + Security Engineer
++ Systems Analyst
++ QA Engineer
++ Data Scientist
 + CEO of your own company (why the hell not?) :sunglasses:
 
 

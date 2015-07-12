@@ -36,7 +36,7 @@ Okay! let's start by the most important thing :
 + Web Developement
 + Database Administration
 + System Administration
-+ Big Data
++ Big Data & Cloud Computing
 + Computer Vision & Image Processing
 + Machine Learning
 + Artificial Intelligence

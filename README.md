@@ -86,8 +86,15 @@ Okay! let's start by the most important thing :
 + [Apprenez à programmer en C !](https://openclassrooms.com/courses/apprenez-a-programmer-en-c) :star::star::star:
 + [Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) :star::star::star:
 
+## Tutorials
++ [**Hackr.io**
+*Share and discover the best programming tutorials and courses online*.](http://hackr.io/)
++ [**Openclassrooms**](https://openclassrooms.com/)
++ [**Grafikart**](http://www.grafikart.fr/)
+
 
 ## Articles
++ [Google's Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html) :star::star::star::star::star:
 + [How I Learned to Program Computers - Feross](http://feross.org/how-i-learned-to-program-computers/) :star::star::star::star::star:
 + [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) :star::star::star:
 + [CS Internship Recruiting Guide](https://medium.com/@qrazhan/cs-internship-recruiting-guide-aebb68912808) :star::star::star:
@@ -134,4 +141,4 @@ fork this repo, create a new branch, name it like this : `yourusername-edit` and
 ## Contributors
 + Anwar ZIANI - 4th year cs engineering (anwaar.ziani@gmail.com) ![Twitter](http://i39.servimg.com/u/f39/15/03/00/90/twitte10.png)[@zianwar_](https://twitter.com/zianwar_)
 + Adnane OUAHABI - 5th year cs engineering (adnaneoa@gmail.com) ![Twitter](http://i39.servimg.com/u/f39/15/03/00/90/twitte10.png)[@OuahabiAdnane ](http://twitter.com/OuahabiAdnane)
-+ Saad EL HAJJAJI - 4th year cs engineering (saadelha@gmail.com) ![Twitter](http://i39.servimg.com/u/f39/15/03/00/90/twitte10.png)[@_saadel](http://twitter.com/_saadel) 
++ Saad EL HAJJAJI - 4th year cs engineering (saadelha@gmail.com) ![Twitter](http://i39.servimg.com/u/f39/15/03/00/90/twitte10.png)[@_saadel](http://twitter.com/_saadel)

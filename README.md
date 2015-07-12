@@ -66,6 +66,7 @@ Okay! let's start by the most important thing :
 + You can go freelance in parallel with your full-time work or even your studies
 + Two simultaneous jobs if you are ready to sacrifice some extra free hours
 
+
 ## Courses
 + [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 + [Coursera: Computer Science 101](https://www.coursera.org/course/cs101)
@@ -76,6 +77,8 @@ Okay! let's start by the most important thing :
 + [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 + Coursera Introduction to Algorithms [Part 1](https://www.coursera.org/course/algs4partI) & [Part 2](https://www.coursera.org/course/algs4partII)
 + [MIT: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm)
++ [Codecademy](http://www.codecademy.com/learn)
++ [Mobile Web Development](https://www.udacity.com/course/mobile-web-development--cs256)
 
 
 ## Books
@@ -88,8 +91,6 @@ Okay! let's start by the most important thing :
 + [How I Learned to Program Computers - Feross](http://feross.org/how-i-learned-to-program-computers/)
 + [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 + [CS Internship Recruiting Guide](https://medium.com/@qrazhan/cs-internship-recruiting-guide-aebb68912808)
-
-
 
 
 ## School Program

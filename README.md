@@ -81,6 +81,12 @@ Okay! let's start by the most important thing :
 ![Issue](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/newissue1.png "Issues Section")
 
 
+## Staying updated
++ [Hacker News](https://news.ycombinator.com/)
++ [Qudos.io](https://www.qudos.io/)
++ [/r/comsci (Computer Science on Reddit)](https://www.reddit.com/r/compsci)
+
+
 ## Experiences
 > Have an awesome story/experience with writing your first app, or programming in general and want to share it with us?
 > Or even more than that, want to talk about something specific that can't be categorised ? 

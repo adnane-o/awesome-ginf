@@ -68,6 +68,14 @@ Okay! let's start by the most important thing :
 
 ## Courses
 + [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
++ [Coursera: Computer Science 101](https://www.coursera.org/course/cs101)
++ [Udacity: Intro to Computer Science (Build a Search Engine & a Social Network)](https://www.udacity.com/course/intro-to-computer-science--cs101)
++ [Coursera: Learn to Program: The Fundamentals](https://www.coursera.org/course/programming1)
++ [MIT: Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm)
++ [Google's Python Class](https://developers.google.com/edu/python/)
++ [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
++ Coursera Introduction to Algorithms [Part 1](https://www.coursera.org/course/algs4partI) & [Part 2](https://www.coursera.org/course/algs4partII)
++ [MIT: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm)
 
 
 ## Books
@@ -96,6 +104,12 @@ Okay! let's start by the most important thing :
 >Want to discuss about something ?
 >simply open an issue, make a suitable title, write your question, and you have our attention.
 ![Issue](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/newissue1.png "Issues Section")
+
+
+## Staying updated
++ [Hacker News](https://news.ycombinator.com/)
++ [Qudos.io](https://www.qudos.io/)
++ [/r/comsci (Computer Science on Reddit)](https://www.reddit.com/r/compsci)
 
 
 ## Experiences

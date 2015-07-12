@@ -25,6 +25,8 @@ Okay! let's start by the most important thing :
 + **TED Talks :**
   + [Pranav Mistry: The thrilling potential of SixthSense technology](https://www.youtube.com/watch?v=YrtANPtnhyg)
   + [Computer science is for everyone | Hadi Partovi](https://www.youtube.com/watch?v=FpMNs7H24X0)
+  + [You Should Learn to Program: Christian Genco](https://www.youtube.com/watch?v=xfBWk4nw440)
+
 
 + **Random videos**
   + [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)

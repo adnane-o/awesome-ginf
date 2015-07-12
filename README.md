@@ -10,11 +10,11 @@ Hello there!, I made this repository as a request from some students at our scho
 + **GSEA** : Electronic & Automatics Engineering
 + **G3EI** : Eco-Energy & Industrial Environment Engineering
 
-> you can find a full description of these branches at our offical  ~~shitty~~ [website](http://ensat.ac.ma) :poop:
+> you can find a full description of these branches at our offical [website](http://ensat.ac.ma) :poop:
 
 I need to mention that even if the language used to teach at our school is French, which I consider bad, English stays the main go to language to study and learn Computer Science, so friends, you need to get familiar with it! => first rule of Computer Science!
 
-Clearly I'm gonna be talking only about **Computer Science**, and since there's a lot to cover, I'll be dividing this content into sections, each section will contain its own content, this way we can have better and more organised ressources.
+Clearly, I'm gonna be talking only about **Computer Science**, and since there's a lot to cover, I'll be dividing this content into sections, each section will contain its own content, this way we can have better and more organised ressources.
 
 Okay! let's start by the most important thing :
 
@@ -64,12 +64,12 @@ Okay! let's start by the most important thing :
 + You can work from your own place wearing your underwear
 + All you need is on the internet & Google is your friend
 + You can go frealance parallelly with your full-time work
-+ Two simultaneous Jobs if you are ready to sacrifice some extra free hours
++ Two simultaneous jobs if you are ready to sacrifice some extra free hours
 
 
 ## Discussions
 >Want to discuss about something ?
->simply open an issue, make a suitable title and you have our attention.
+>simply open an issue, make a suitable title, write your question, and you have our attention.
 ![Issue](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/newissue1.png "Issues Section")
 
 
@@ -77,5 +77,5 @@ Okay! let's start by the most important thing :
 Everyone can contribute, what's more, I believe everyone can add value by at least providing something.
 
 There's no rules for contribution, simply fork and create a pull-request, since you are not going to mess things up,
-we trust you.
+we trust you :wink:
 

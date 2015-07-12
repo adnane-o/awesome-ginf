@@ -128,3 +128,9 @@ Everyone can contribute, what's more, I believe everyone can add value by at lea
 **The steps are as follows :**
 
 fork this repo, create a new branch, name it like this : `yourusername-edit` and then create a pull-request.
+
+
+## Contributors
++ Anwar ZIANI - 4th year cs engineering (anwaar.ziani@gmail.com) ![Twitter](http://i39.servimg.com/u/f39/15/03/00/90/twitte10.png)[@zianwar_](https://twitter.com/zianwar_)
++ Adnane Ouahabi - 5th year cs engineering (adnaneoa@gmail.com) ![Twitter](http://i39.servimg.com/u/f39/15/03/00/90/twitte10.png)[@OuahabiAdnane ](http://twitter.com/OuahabiAdnane)
++ Saad El Hajjai - 4th year cs engineering (saadelha@gmail.com) ![Twitter](http://i39.servimg.com/u/f39/15/03/00/90/twitte10.png)[@_saadel](http://twitter.com/_saadel) 

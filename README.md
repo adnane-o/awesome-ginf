@@ -10,7 +10,7 @@ Hello there!, I made this repository as a request from some students at our scho
 + **GSEA** : Electronic & Automatics Engineering
 + **G3EI** : Eco-Energy & Industrial Environment Engineering
 
-> you can find a full description of these branches at our offical [website](http://ensat.ac.ma) :poop:
+> you can find a full description of these branches at our official [website](http://ensat.ac.ma) :poop:
 
 I need to mention that even if the language used to teach at our school is French, which I consider bad, English stays the main go to language to study and learn Computer Science, so friends, you need to get familiar with it! => first rule of Computer Science!
 

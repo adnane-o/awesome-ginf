@@ -85,6 +85,6 @@ Okay! let's start by the most important thing :
 ## Contribution
 Everyone can contribute, what's more, I believe everyone can add value by at least providing something.
 
-There's no rules for contribution, simply fork and create a pull-request, since you are not going to mess things up,
-we trust you :wink:
+**The steps are as follows :**
 
+fork this repo, create a new branch, name it like this : `yourusername-edit` and then create a pull-request. 

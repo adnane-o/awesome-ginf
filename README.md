@@ -61,6 +61,9 @@ Okay! let's start by the most important thing :
 
 
 ## Advantages
++ Plenty of resources online: tutorials, videos, courses...
++ Computer science offers great opportunities for true creativity and innovativeness
++ Future opportunities in computer science are without boundaries
 + You can work from your own place wearing your underwear
 + All you need is on the internet & Google is your friend
 + You can go freelance in parallel with your full-time work or even your studies
@@ -85,6 +88,7 @@ Okay! let's start by the most important thing :
 + [The C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language) :star::star::star::star::star:
 + [Apprenez à programmer en C !](https://openclassrooms.com/courses/apprenez-a-programmer-en-c) :star::star::star:
 + [Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) :star::star::star:
++ [Eloquent Javascript](http://eloquentjavascript.net/) :star::star::star::star:
 
 ## Tutorials
 + [**Hackr.io**

@@ -4,7 +4,7 @@
 
 Hello there!, I made this repository as a request from some students at our school [ENSAT](http://ensat.ac.ma) in order to help them wisely choose an engineering branch that suits and fits their desires and skills, they are about to choose from 5 branches, which are :
 
-+ **GSTR** : Telecomunication & Networking Engineering
++ **GSTR** : Telecommunication & Networking Engineering
 + **GIND** : Industrial & Logistics Engineering
 + **GINF** : Computer Science
 + **GSEA** : Electronic & Automatics Engineering
@@ -14,7 +14,7 @@ Hello there!, I made this repository as a request from some students at our scho
 
 I need to mention that even if the language used to teach at our school is French, which I consider bad, English stays the main go to language to study and learn Computer Science, so friends, you need to get familiar with it! => first rule of Computer Science!
 
-Clearly, I'm gonna be talking only about **Computer Science**, and since there's a lot to cover, I'll be dividing this content into sections, each section will contain its own content, this way we can have better and more organised ressources.
+Clearly, I'm gonna be talking only about **Computer Science**, and since there's a lot to cover, I'll be dividing this content into sections, each section will contain its own content, this way we can have better and more organized resources.
 
 Okay! let's start by the most important thing :
 
@@ -33,7 +33,7 @@ Okay! let's start by the most important thing :
   + [President Obama asks America to learn computer science](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 
 ## Disciplines
-+ Web Developement
++ Web Development
 + Database Administration
 + System Administration
 + Big Data & Cloud Computing
@@ -123,7 +123,7 @@ Okay! let's start by the most important thing :
 
 ## Experiences
 > Have an awesome story/experience with writing your first app, or programming in general and want to share it with us?
-> Or even more than that, want to talk about something specific that can't be categorised ?
+> Or even more than that, want to talk about something specific that can't be categorized ?
 
 > Cool, we are excited to hear from you.
 
@@ -136,7 +136,7 @@ Everyone can contribute, what's more, I believe everyone can add value by at lea
 
 **The steps are as follows :**
 
-fork this repo, create a new branch, name it like this : `yourusername-edit` and then create a pull-request.
+Fork this repo, make your changes and then create a pull-request.
 
 
 ## Contributors

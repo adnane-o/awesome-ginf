@@ -22,6 +22,15 @@ Okay! let's start by the most important thing :
 ## Motivation
 >Every article, youtube or TED video, or whatever makes you fall in love with computer science
 
++ **TED Talks :**
+  + [Pranav Mistry: The thrilling potential of SixthSense technology](https://www.youtube.com/watch?v=YrtANPtnhyg)
+  + [Computer science is for everyone | Hadi Partovi](https://www.youtube.com/watch?v=FpMNs7H24X0)
+  
++ **Random videos**
+  + [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc) 
+  + [How to Learn to Code](https://www.youtube.com/watch?v=mvK0UzFNw1Q)
+  + [14-Year-Old Prodigy Programmer Dreams In Code](https://www.youtube.com/watch?v=DBXZWB_dNsw)
+  
 
 ## Disciplines
 + Web Developement 
@@ -51,6 +60,7 @@ Okay! let's start by the most important thing :
 
 ## Contribution
 Everyone can contribute, what's more, I believe everyone can add value by at least providing something.
+
 There's no rules for contribution, simply fork and create a pull-request, since you are not going to mess things up, 
 we trust you. 
 

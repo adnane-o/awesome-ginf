@@ -68,30 +68,30 @@ Okay! let's start by the most important thing :
 
 
 ## Courses
-+ [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-+ [Coursera: Computer Science 101](https://www.coursera.org/course/cs101)
-+ [Udacity: Intro to Computer Science (Build a Search Engine & a Social Network)](https://www.udacity.com/course/intro-to-computer-science--cs101)
++ [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) :star::star::star::star::star:
++ [Coursera: Computer Science 101](https://www.coursera.org/course/cs101) :star::star::star:
++ [Udacity: Intro to Computer Science (Build a Search Engine & a Social Network)](https://www.udacity.com/course/intro-to-computer-science--cs101) :star::star::star:
 + [Coursera: Learn to Program: The Fundamentals](https://www.coursera.org/course/programming1)
 + [MIT: Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/index.htm)
 + [Google's Python Class](https://developers.google.com/edu/python/)
-+ [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
-+ Coursera Introduction to Algorithms [Part 1](https://www.coursera.org/course/algs4partI) & [Part 2](https://www.coursera.org/course/algs4partII)
++ [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm) :star::star::star::star:
++ Coursera Introduction to Algorithms [Part 1](https://www.coursera.org/course/algs4partI) & [Part 2](https://www.coursera.org/course/algs4partII) :star::star::star::star:
 + [MIT: Introduction to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm)
 + [Codecademy](http://www.codecademy.com/learn)
 + [Mobile Web Development](https://www.udacity.com/course/mobile-web-development--cs256)
 
 
 ## Books
-+ [The C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-+ [Apprenez à programmer en C !](https://openclassrooms.com/courses/apprenez-a-programmer-en-c)
-+ [Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3)
++ [The C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language) :star::star::star::star::star:
++ [Apprenez à programmer en C !](https://openclassrooms.com/courses/apprenez-a-programmer-en-c) :star::star::star:
++ [Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) :star::star::star:
 
 
 ## Articles
-+ [How I Learned to Program Computers - Feross](http://feross.org/how-i-learned-to-program-computers/)
-+ [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-+ [CS Internship Recruiting Guide](https://medium.com/@qrazhan/cs-internship-recruiting-guide-aebb68912808)
-+ [9 Things I Learned as a Software Engineer*…that I wish I had known when I started grad school*](https://medium.com/@maebert/9-things-i-learned-as-a-software-engineer-c2c9f76c9266)
++ [How I Learned to Program Computers - Feross](http://feross.org/how-i-learned-to-program-computers/) :star::star::star::star::star:
++ [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) :star::star::star:
++ [CS Internship Recruiting Guide](https://medium.com/@qrazhan/cs-internship-recruiting-guide-aebb68912808) :star::star::star:
++ [9 Things I Learned as a Software Engineer*…that I wish I had known when I started grad school*](https://medium.com/@maebert/9-things-i-learned-as-a-software-engineer-c2c9f76c9266) :star::star::star::star:
 
 ## School Program
 ![S1](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/program/s1.png "Semestre 1")
@@ -108,9 +108,9 @@ Okay! let's start by the most important thing :
 
 
 ## Staying updated
-+ [Hacker News](https://news.ycombinator.com/)
-+ [Qudos.io](https://www.qudos.io/)
-+ [/r/comsci (Computer Science on Reddit)](https://www.reddit.com/r/compsci)
++ [Hacker News](https://news.ycombinator.com/) :star::star::star::star::star:
++ [Qudos.io](https://www.qudos.io/) :star::star::star:
++ [/r/comsci (Computer Science on Reddit)](https://www.reddit.com/r/compsci) :star::star::star::star:
 
 
 ## Experiences
@@ -121,6 +121,7 @@ Okay! let's start by the most important thing :
 
 > Fork this repo, create a markdown file in this format : `your-name.md` and we will link to it from here.
 
++ [Otmane EL GUENOUNI](http://otmaneguenouni.me) - 4th year cs engineering : [How did I get to it](http://otmaneguenouni.me/2015/07/01/how-did-i-get-to-it.html)
 
 ## Contribution
 Everyone can contribute, what's more, I believe everyone can add value by at least providing something.

@@ -63,8 +63,25 @@ Okay! let's start by the most important thing :
 ## Advantages
 + You can work from your own place wearing your underwear
 + All you need is on the internet & Google is your friend
-+ You can go frealance parallelly with your full-time work
++ You can go freelance in parallel with your full-time work or even your studies
 + Two simultaneous jobs if you are ready to sacrifice some extra free hours
+
+## Courses
++ [CS50: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
+
+## Books
++ [The C programming language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
++ [Apprenez à programmer en C !](https://openclassrooms.com/courses/apprenez-a-programmer-en-c)
++ [Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3)
+
+
+## Articles
++ [How I Learned to Program Computers - Feross](http://feross.org/how-i-learned-to-program-computers/)
++ [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
++ [CS Internship Recruiting Guide](https://medium.com/@qrazhan/cs-internship-recruiting-guide-aebb68912808)
+
+
 
 
 ## School Program
@@ -83,7 +100,7 @@ Okay! let's start by the most important thing :
 
 ## Experiences
 > Have an awesome story/experience with writing your first app, or programming in general and want to share it with us?
-> Or even more than that, want to talk about something specific that can't be categorised ? 
+> Or even more than that, want to talk about something specific that can't be categorised ?
 
 > Cool, we are excited to hear from you.
 
@@ -95,4 +112,4 @@ Everyone can contribute, what's more, I believe everyone can add value by at lea
 
 **The steps are as follows :**
 
-fork this repo, create a new branch, name it like this : `yourusername-edit` and then create a pull-request. 
+fork this repo, create a new branch, name it like this : `yourusername-edit` and then create a pull-request.

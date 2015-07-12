@@ -73,6 +73,15 @@ Okay! let's start by the most important thing :
 ![Issue](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/newissue1.png "Issues Section")
 
 
+## Experiences
+> Have an awesome story/experience with writing your first app, or programming in general and want to share it with us?
+> Or even more than that, want to talk about something specific that can't be categorised ? 
+
+> Cool, we are excited to hear from you.
+
+> Fork this repo, create a markdown file in this format : `your-name.md` and we will link to it from here.
+
+
 ## Contribution
 Everyone can contribute, what's more, I believe everyone can add value by at least providing something.
 

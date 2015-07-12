@@ -67,6 +67,14 @@ Okay! let's start by the most important thing :
 + Two simultaneous jobs if you are ready to sacrifice some extra free hours
 
 
+## School Program
+![S1](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/program/s1.png "Semestre 1")
+![S2](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/program/s2.png "Semestre 2")
+![S3](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/program/s3.png "Semestre 3")
+![S4](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/program/s4.png "Semestre 4")
+![S5](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/program/s5.png "Semestre 5")
+
+
 ## Discussions
 >Want to discuss about something ?
 >simply open an issue, make a suitable title, write your question, and you have our attention.

@@ -118,6 +118,7 @@ Okay! let's start by the most important thing :
 + [Hacker News](https://news.ycombinator.com/) :star::star::star::star::star:
 + [Qudos.io](https://www.qudos.io/) :star::star::star:
 + [/r/comsci (Computer Science on Reddit)](https://www.reddit.com/r/compsci) :star::star::star::star:
++ [The Next Web](http://thenextweb.com/) :star::star::star:
 
 
 ## Experiences

@@ -1,14 +1,14 @@
 # Awesome GINF
 
-![GINF](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/ginf.png?token=AGMZeFbP2EnVs2S29E2B4NdXZpn19lu6ks5VqvTTwA%3D%3D "Génie Informatique")            
+![GINF](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/ginf.png?token=AGMZeFbP2EnVs2S29E2B4NdXZpn19lu6ks5VqvTTwA%3D%3D "Génie Informatique")
 
-Hello there!, I made this repository as a request from some students at our school [ENSAT](http://ensat.ac.ma) in order to help them wisely choose an engineering branch that suits and fits their desires and skills, they are about to choose from 5 branches, which are : 
+Hello there!, I made this repository as a request from some students at our school [ENSAT](http://ensat.ac.ma) in order to help them wisely choose an engineering branch that suits and fits their desires and skills, they are about to choose from 5 branches, which are :
 
 + **GSTR** : Telecomunication & Networking Engineering
 + **GIND** : Industrial & Logistics Engineering
 + **GINF** : Computer Science
-+ **GSEA** : Electronic & Automatics Engineering 
-+ **G3EI** : Eco-Energy & Industrial Environment Engineering 
++ **GSEA** : Electronic & Automatics Engineering
++ **G3EI** : Eco-Energy & Industrial Environment Engineering
 
 > you can find a full description of these branches at our offical  ~~shitty~~ [website](http://ensat.ac.ma) :poop:
 
@@ -16,7 +16,7 @@ I need to mention that even if the language used to teach at our school is Frenc
 
 Clearly I'm gonna be talking only about **Computer Science**, and since there's a lot to cover, I'll be dividing this content into sections, each section will contain its own content, this way we can have better and more organised ressources.
 
-Okay! let's start by the most important thing :  
+Okay! let's start by the most important thing :
 
 
 ## Motivation
@@ -25,15 +25,15 @@ Okay! let's start by the most important thing :
 + **TED Talks :**
   + [Pranav Mistry: The thrilling potential of SixthSense technology](https://www.youtube.com/watch?v=YrtANPtnhyg)
   + [Computer science is for everyone | Hadi Partovi](https://www.youtube.com/watch?v=FpMNs7H24X0)
-  
+
 + **Random videos**
-  + [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc) 
+  + [What Most Schools Don't Teach](https://www.youtube.com/watch?v=nKIu9yen5nc)
   + [How to Learn to Code](https://www.youtube.com/watch?v=mvK0UzFNw1Q)
   + [14-Year-Old Prodigy Programmer Dreams In Code](https://www.youtube.com/watch?v=DBXZWB_dNsw)
-  
+
 
 ## Disciplines
-+ Web Developement 
++ Web Developement
 + Database Administration
 + System Administration
 + Big Data
@@ -46,19 +46,25 @@ Okay! let's start by the most important thing :
 
 ## Jobs
 + Software Engineer
-+ Project Manager
 + Database Administrator
-+ Security Engineer
-+ Systems Analyst
 + QA Engineer
 + Data Scientist
-+ CEO of your own company (why the hell not?) :sunglasses:
++ Data Analyst
++ Big Data Engineer
++ Business Intelligence Engineer
++ Cloud Engineer
++ Security Engineer
++ Machine Learning Engineer
++ Computer Vision Engineer
++ Project Manager
++ Future CTO :sunglasses:
 
 
 ## Advantages
 + You can work from your own place wearing your underwear
 + All you need is on the internet & Google is your friend
 + You can go frealance parallelly with your full-time work
++ Two simultaneous Jobs if you are ready to sacrifice some extra free hours
 
 
 ## Discussions
@@ -70,6 +76,6 @@ Okay! let's start by the most important thing :
 ## Contribution
 Everyone can contribute, what's more, I believe everyone can add value by at least providing something.
 
-There's no rules for contribution, simply fork and create a pull-request, since you are not going to mess things up, 
-we trust you. 
+There's no rules for contribution, simply fork and create a pull-request, since you are not going to mess things up,
+we trust you.
 

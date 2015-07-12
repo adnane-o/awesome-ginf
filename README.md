@@ -31,9 +31,18 @@ Okay! let's start by the most important thing :
 
 ## Jobs
 + Software Engineer
-+ Project Manager
 + Database Administrator
++ QA Engineer
++ Data Scientist
++ Data Analyst
++ Big Data Engineer
++ Business Intelligence Engineer
++ Cloud Engineer
 + Security Engineer
++ Machine Learning Engineer
++ Computer Vision Engineer
++ Project Manager
++ Future CTO
 + CEO of your own company (why the hell not?) :sunglasses:
 
 
@@ -41,6 +50,7 @@ Okay! let's start by the most important thing :
 + You can work from your own place wearing your underwear
 + All you need is on the internet & Google is your friend
 + You can go frealance parallelly with your full-time work
++ Two simultaneous Jobs if you are ready to sacrifice some extra free hours
 
 
 ## Discussions

@@ -1,6 +1,6 @@
 # Awesome GINF
 
-![GINF](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/ginf.png?token=AGMZeFbP2EnVs2S29E2B4NdXZpn19lu6ks5VqvTTwA%3D%3D "Génie Informatique")
+![GINF](https://raw.githubusercontent.com/Zianwar/awesome-ginf/master/images/ginfensat.png "Génie Informatique")
 
 Hello there!, I made this repository as a request from some students at our school [ENSAT](http://ensat.ac.ma) in order to help them wisely choose an engineering branch that suits and fits their desires and skills, they are about to choose from 5 branches, which are :
 

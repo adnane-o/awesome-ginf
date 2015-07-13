@@ -90,9 +90,10 @@ Okay! let's start by the most important thing :
 + [Apprenez à programmer en C !](https://openclassrooms.com/courses/apprenez-a-programmer-en-c) :star::star::star:
 + [Apprenez à créer votre site web avec HTML5 et CSS3](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) :star::star::star:
 + [Eloquent Javascript](http://eloquentjavascript.net/) :star::star::star::star:
++ [HTML & CSS - Design and Build Websites](http://www.htmlandcssbook.com/)
++ [Javascript & jQuery - Interactive front end web development](http://www.javascriptbook.com/)
 
 ## Tutorials
-+ [**Grafikart**](http://www.grafikart.fr)
 + [**Hackr.io**
 *Share and discover the best programming tutorials and courses online*.](http://hackr.io/)
 + [**Openclassrooms**](https://openclassrooms.com/)
